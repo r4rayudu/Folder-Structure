@@ -27,5 +27,9 @@
     - `mvn clean package`
     - `mvn spring-boot:run`
     
- <h2>URL</h2>
- http://localhost:8080/findPathPage
+<h2>URL</h2>
+  http://localhost:8080/findPathPage
+
+
+  ![](https://github.com/r4rayudu/Folder-Structure/blob/master/image/image1.JPG)
+  ![](https://github.com/r4rayudu/Folder-Structure/blob/master/image/image2.JPG)
